@@ -1,28 +1,28 @@
 var questions = [
     {
         prompt: "What does HTML stand for?",
-        options: ["hypertext Markup Link", "Hypertext Markup Language", "Hypertext Markdown Link", "Hypertext Markdown Language"],
+        options: ["Hypertext Markup Link", "Hypertext Markup Language", "Hypertext Markdown Link", "Hypertext Markdown Language"],
         answer: "Hypertext Markup Language"
     },
     {
-        prompt: "question 2",
-        options: ["1", "2", "3", "4"],
-        answer: "1"
+        prompt: "What does CSS stand for?",
+        options: ["Cascading Style Sheets", "Cascading Simple Sheets", "Cascading Simple Style", "Column Simple Style"],
+        answer: "Cascading Style Sheets"
     },
     {
-        prompt: "question 3",
-        options: ["1", "2", "3", "4"],
-        answer: "1"
+        prompt: "What does API stand for?",
+        options: ["Applying Pulled Interface", "Applying Programming Information", "Application Programming Interface", "Application Pulling Information"],
+        answer: "Application Programming Interface"
     },
     {
-        prompt: "question 4",
-        options: ["1", "2", "3", "4"],
-        answer: "1"
+        prompt: "What are arrays enclosed in?",
+        options: ["Parentheses", "Curly Brackets", "Angle Brackets", "Square Brackets"],
+        answer: "Square Brackets"
     },
     {
-        prompt: "question 5",
-        options: ["1", "2", "3", "4"],
-        answer: "1"
+        prompt: "How can you get an element",
+        options: ["Id", "Class", "Both Id and Class", "None of the Above"],
+        answer: "Both Id and Class"
     }
 ];
 var index = 0;
